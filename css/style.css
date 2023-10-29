@@ -65,7 +65,7 @@
 .home .carousel-controls{
 	position: absolute;
 	left: 50%;
-	bottom: 40px;
+	top: 90px;
 	z-index: 10;
 	transform: translateX(-50%);
 }
